@@ -98,7 +98,7 @@ const Footer = () => {
               </div>
               <div className="flex items-center gap-3 mt-3 ">
                 <FaMailBulk className="text-black-500" />
-                <p>safarandaman@gmail.com</p>
+                <p>safarandamanofficial@gmail.com</p>
               </div>
               <div className="flex items-center gap-3 mt-3 ">
                 <CgWebsite className="text-sky-500" />
@@ -106,7 +106,7 @@ const Footer = () => {
               </div>
               <div className="flex items-center gap-3 mt-3">
                 <FaMobileAlt className="text-gray-500" />
-                <p>+91 7908012356, +91 9679597655</p>
+                <p>+91-9679515331, +91- 7063516120</p>
               </div>
               {/* social handles */}
               <div>
@@ -123,7 +123,7 @@ const Footer = () => {
                   {/* <Link to="#">
                     <FaLinkedin className="text-3xl text-sky-800" />
                   </Link> */}
-                  <a href="https://api.whatsapp.com/send?phone=917063948704" target='_blank' rel='noreferrer'>
+                  <a href="https://api.whatsapp.com/send?phone=919679515331" target='_blank' rel='noreferrer'>
                     <FaWhatsapp className="text-3xl text-green-700" />
                   </a>
                 </div>

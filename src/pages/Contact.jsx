@@ -73,10 +73,10 @@ const Contact = () => {
               </div>
               <div className="mt-5 flex flex-col gap-2 text-white mx-auto text-center underline">
                 <Link
-                  to="tel:+917908012356"
+                  to="tel:+917063516120"
                   className="text-base font-medium text-center mx-auto"
                 >
-                  +91 7908012356
+                  +91 7063516120
                 </Link>
                 <Link
                   to="tel:++919679597655"

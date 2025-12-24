@@ -66,7 +66,7 @@ const PackageCard = ({ item }) => {
           <small className="text-gray-400">Last updated 3 mins ago</small>
         </p>
 
-        <p className="absolute bottom-4 bg-gradient-to-tl from-[#ffa399] to-[#f73b3b] font-medium left-0 w-full p-2 text-center"><a href="tel:7908012356">₹ On Request /-</a></p>
+        <p className="absolute bottom-4 bg-gradient-to-tl from-[#ffa399] to-[#f73b3b] font-medium left-0 w-full p-2 text-center"><a href="tel:7063516120">₹ On Request /-</a></p>
       </div>
 
       {isModalOpen && <PackageModal item={item} closeModal={closeModal} />}
