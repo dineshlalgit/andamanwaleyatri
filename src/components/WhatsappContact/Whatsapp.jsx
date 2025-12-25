@@ -2,7 +2,7 @@ import whatsapp from "../../assets/images/whatsapp_5968841.png";
 
 const Whatsapp = () => {
   const handleWhatsAppClick = () => {
-    window.open("https://api.whatsapp.com/send?phone=9679597655", "_blank");
+    window.open("https://api.whatsapp.com/send?phone=9679515331", "_blank");
   };
 
   return (

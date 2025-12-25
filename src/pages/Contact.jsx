@@ -79,10 +79,10 @@ const Contact = () => {
                   +91 7063516120
                 </Link>
                 <Link
-                  to="tel:++919679597655"
+                  to="tel:++919679515331"
                   className="text-base font-medium text-center mx-auto"
                 >
-                  +91 9679597655
+                  +91 9679515331
                 </Link>
               </div>
               <div className="mt-5 flex gap-2 text-white mx-auto text-center">
